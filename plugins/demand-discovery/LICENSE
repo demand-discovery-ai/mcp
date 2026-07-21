@@ -1,0 +1,52 @@
+PROPRIETARY SOFTWARE LICENSE
+
+Copyright (c) 2026 Demand Discovery AI. All rights reserved.
+
+The Demand Discovery AI™ Model Context Protocol service (the "Service"), its
+hosted endpoints, the knowledge base it serves, the tool definitions, the
+manifest, the responses it returns, and all related materials referenced by
+this repository (collectively, the "Software") are the proprietary and
+confidential property of Demand Discovery AI.
+
+This repository contains only public installation documentation and metadata
+for the Service. The Service's source code is not contained in this
+repository and is not distributed publicly.
+
+NO LICENSE IS GRANTED to the Software. The Software is not open source. No
+part of the Software, including responses returned by the Service, may be
+copied, reproduced, modified, published, redistributed, sublicensed,
+mirrored, scraped, ingested into a training corpus, or used to train,
+fine-tune, evaluate, or distill any machine-learning model without the prior
+written consent of Demand Discovery AI.
+
+The public Model Context Protocol endpoint at
+https://mcp.demanddiscovery.ai/api/mcp is provided solely for use by AI
+clients on behalf of human end users querying the Demand Discovery sales
+agent. Programmatic harvesting of the endpoint's responses, redistribution
+of the responses as a derived dataset, and republishing the responses on any
+third-party site or registry are expressly prohibited.
+
+The installation documentation in this repository (README.md,
+llms-install.md, and associated metadata) is provided to enable installation
+of the Service in MCP-compatible AI clients. You may reference, link to, and
+quote brief excerpts of this documentation for the purpose of installing,
+discussing, or reviewing the Service.
+
+TERMINATION. Demand Discovery AI reserves the right to terminate access to
+the Service, at its sole discretion and without notice, for any user, IP
+address, autonomous system, or entity violating these terms or the
+acceptable-use policy published at
+https://mcp.demanddiscovery.ai/api/mcp/manifest. Termination measures
+include, without limitation, blocking IP addresses, revoking client
+credentials, rate-limiting, and pursuing legal remedies including injunctive
+relief and damages.
+
+This Software is provided "AS IS", without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability,
+fitness for a particular purpose, and noninfringement. In no event shall
+the authors or copyright holders be liable for any claim, damages, or other
+liability, whether in an action of contract, tort, or otherwise, arising
+from, out of, or in connection with the Software or the use or other
+dealings in the Software.
+
+For licensing inquiries: hi@demanddiscovery.ai

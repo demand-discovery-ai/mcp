@@ -1,0 +1,21 @@
+{
+  "name": "demand-discovery",
+  "displayName": "Demand Discovery AI™",
+  "version": "1.3.1",
+  "description": "Validate a startup idea with real demand signals before you build it. Behavior over opinion.™ Runs a free Market Research report on any idea, then offers an optional $49 Demand Discovery™ Report with a 0-100 Demand Score™ and a Build / Pivot / Kill verdict™, and a 90-day Agentic Launch that drafts real outreach for you to review and send. Backed by the hosted Demand Discovery AI™ MCP server.",
+  "author": {
+    "name": "Demand Discovery AI",
+    "email": "hi@demanddiscovery.ai",
+    "url": "https://demanddiscovery.ai"
+  },
+  "homepage": "https://mcp.demanddiscovery.ai",
+  "license": "Proprietary",
+  "keywords": [
+    "startup",
+    "validation",
+    "market-research",
+    "demand-discovery",
+    "icp",
+    "founder-tools"
+  ]
+}

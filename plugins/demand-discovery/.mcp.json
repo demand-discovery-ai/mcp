@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "demand-discovery": {
+      "type": "http",
+      "url": "https://mcp.demanddiscovery.ai/api/mcp"
+    }
+  }
+}
