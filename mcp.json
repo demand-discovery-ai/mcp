@@ -2,12 +2,12 @@
   "$schema": "https://modelcontextprotocol.io/schemas/mcp-server.json",
   "name": "demand-discovery-ai",
   "displayName": "Demand Discovery AI™",
-  "description": "Sales-agent MCP for Demand Discovery AI™. Behavior over opinion.™ — answers founder questions about validating startup ideas, finding real prospects, testing demand with real people, customer interviews, market signals, defensibility, and the Build / Pivot / Kill verdict™. Grounded in real behavioral signals across four categories — Search & attention, Conversation & pain, Adoption & spend, Capital & hiring.",
-  "version": "1.3.25",
+  "description": "Validate startup ideas inside your AI assistant with evidence, not opinion. Find real people asking for what you want to build, quoted in their own words and linked to the original source. Start with a free market research brief, then get full signal evidence, a Build / Pivot / Kill verdict™, and ready-to-send prospect outreach.",
+  "version": "1.3.26",
   "license": "Proprietary - All Rights Reserved. See LICENSE.",
   "homepage": "https://demanddiscovery.ai",
   "categories": [
-    "sales",
+    "product-management",
     "marketing",
     "research",
     "productivity"
@@ -18,7 +18,8 @@
     "demand-discovery",
     "market-research",
     "icp",
-    "sales-agent",
+    "demand-validation",
+    "source-linked-evidence",
     "founder-tools"
   ],
   "transport": {
