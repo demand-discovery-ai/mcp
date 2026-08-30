@@ -14,7 +14,7 @@ The server itself is **hosted**, **stateless**, and **free to use** with no API 
 
 Most founders are validating interest, not demand. Others score opinions. Demand Discovery measures behavior.
 
-Demand Discovery AI™ is a sales-agent MCP server that lives inside your AI assistant to answer your hardest validation questions — grounded in real behavioral signals across 40+ data sources — so you increase your validation velocity and build the right things fast. Ask it about:
+Validate startup ideas inside your AI assistant with evidence, not opinion. Find real people asking for what you want to build, quoted in their own words and linked to the original source. Start with a free market research brief, then get full signal evidence, a **Build / Pivot / Kill verdict™**, and ready-to-send prospect outreach. Ask it about:
 
 - Validating a startup idea with real demand signals — behavior, not opinions or surveys
 - Finding your ICP (Ideal Customer Profile): who wants your idea, and where they are
@@ -81,7 +81,7 @@ Pick your AI client:
 | **v0 by Vercel** | [`examples/v0.md`](./examples/v0.md) |
 | **Replit · Lovable · Bolt · Base44** | [`examples/vibe-coding-agents.md`](./examples/vibe-coding-agents.md) |
 
-The canonical install page with copy-paste snippets and a 60-second walkthrough is at **<https://mcp.demanddiscovery.ai>**.
+The canonical install page with copy-paste snippets and a 60-second walkthrough is at **<https://mcp.demanddiscovery.ai/?utm_source=github&utm_medium=readme&utm_campaign=install>**.
 
 For autonomous installer agents (Cline-style), see [`llms-install.md`](./llms-install.md).
 
@@ -135,7 +135,7 @@ Email **hi@demanddiscovery.ai** with a link to the infringing material and a bri
 ## Links
 
 - **Product:** <https://demanddiscovery.ai>
-- **Install page:** <https://mcp.demanddiscovery.ai>
+- **Install page:** <https://mcp.demanddiscovery.ai/?utm_source=github&utm_medium=readme&utm_campaign=install>
 - **Free Market Research kickoff:** <https://demanddiscovery.ai/free-market-research-report>
 - **Manifest endpoint:** <https://mcp.demanddiscovery.ai/api/mcp/manifest>
 
