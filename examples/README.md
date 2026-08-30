@@ -23,7 +23,7 @@ Streamable HTTP transport. No auth, no API key, no install script. Pick your cli
 
 ## What you get
 
-Ten MCP tools that turn any AI client into a sales-ready agent for Demand Discovery AI:
+Ten MCP tools that turn any AI client into an evidence-first demand-validation agent:
 
 - `ask_demand_discovery` — on-brand answers to any founder / validation question
 - `get_validation_framework` — the three-step Demand Discovery framework
