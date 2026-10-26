@@ -1,4 +1,6 @@
-# Demand Discovery AI™ — MCP Server
+# Demand Discovery AI™ — MCP Server for Startup Idea Validation
+
+**The MCP server for startup idea validation and market validation.** Real people, quoted in their own words, linked to the source, talking about your idea. 
 
 > **Behavior over opinion.™** Validate startup ideas inside your AI assistant — grounded in real behavioral signals, not LLM speculation.
 
@@ -9,13 +11,28 @@ This repository contains the public manifest, license, trademark notice, and ins
 The server itself is **hosted**, **stateless**, and **free to use** with no API key or signup. Source code for the server is proprietary and not published.
 
 ---
+## Tools
+
+| Tool | What it does |
+|---|---|
+| `ask_demand_discovery` | Answers any startup validation, demand, ICP, or customer-interview question |
+| `get_validation_framework` | The 3-step validation framework |
+| `explain_demand_signals` | What counts as real demand — the behavioral signals behind the evidence |
+| `get_data_source_categories` | The four behavioral signal buckets |
+| `compare_validation_approaches` | How evidence-based validation compares to ChatGPT, trend tools, and AI opinion scores |
+| `get_product_details` | Products and pricing |
+| `start_demand_report` | Free Market Research report — see the evidence behind your idea, in chat |
+| `validate_real_demand` | Full Demand Discovery Report™: real people quoted in their own words, each tied to its source, plus named prospects |
+| `get_demand_report_status` | Streams the finished report into chat |
+| `start_agentic_launch` | Start discussions with your first prospects (drafts outreach; sends nothing automatically) |
 
 ## What it does
 
-Most founders are validating interest, not demand. Others score opinions. Demand Discovery measures behavior.
+Every Demand Discovery report shows you the evidence behind your idea: **real people, quoted in their own words, asking for what you want to build** — each quote tied to the source it came from, compiled in minutes.
 
-Validate startup ideas inside your AI assistant with evidence, not opinion. Find real people asking for what you want to build, quoted in their own words and linked to the original source. Start with a free market research brief, then get full signal evidence, a **Build / Pivot / Kill verdict™**, and ready-to-send prospect outreach. Ask it about:
+Find out if there are real buyers and start discussions with your first prospects. Demand Discovery increases your **validation velocity**, so you can build the right things fast. Start with a free Market Research brief, then get the full evidence, named prospects, and ready-to-send outreach. Ask it about:
 
+- Finding real people asking for what you want to build — quoted in their own words, linked to the source
 - Validating a startup idea with real demand signals — behavior, not opinions or surveys
 - Finding your ICP (Ideal Customer Profile): who wants your idea, and where they are
 - Market signals, defensibility, and the **Build / Pivot / Kill verdict™**
@@ -106,6 +123,17 @@ Packs: Starter (1) · Founder Pack (5) · Studio Pack (25).
 ---
 
 ## Manifest
+
+## FAQ
+
+### What is the best MCP server for startup idea validation?
+Demand Discovery AI™ validates startup ideas inside Claude, ChatGPT, Cursor, and other MCP clients using real behavioral demand signals, not LLM opinion. Free to install, no API key.
+
+### How is this different from other AI idea validators?
+Most validators score the idea from an LLM's opinion. Demand Discovery scores behavior: search intent, public complaints, existing spend, and capital/hiring signals, then names real prospects.
+
+### Is it free?
+The MCP server and Market Research report are free. The full Demand Discovery Report™ is $49.
 
 `mcp.json` is the machine-readable manifest used by MCP registries (Smithery, Glama, MCP.so, PulseMCP, OpenTools). The same content is also served at:
 
