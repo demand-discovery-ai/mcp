@@ -24,18 +24,18 @@ The server itself is **hosted**, **stateless**, and **free to use** with no API 
 | `start_demand_report` | Free Market Research report — see the evidence behind your idea, in chat |
 | `validate_real_demand` | Full Demand Discovery Report™: real people quoted in their own words, each tied to its source, plus named prospects |
 | `get_demand_report_status` | Streams the finished report into chat |
-| `start_agentic_launch` | Start discussions with your first prospects (drafts outreach; sends nothing automatically) |
+| `start_agentic_launch` | Click Start: automatically defines your 5 ICPs, finds them, and writes ready-to-post replies for the exact threads where they described the pain — included in the price |
 
 ## What it does
 
 Every Demand Discovery report shows you the evidence behind your idea: **real people, quoted in their own words, asking for what you want to build** — each quote tied to the source it came from, compiled in minutes.
 
-Find out if there are real buyers and start discussions with your first prospects. Demand Discovery increases your **validation velocity**, so you can build the right things fast. Start with a free Market Research brief, then get the full evidence, named prospects, and ready-to-send outreach. Ask it about:
+Find out if there are real buyers and start discussions with your first prospects. Demand Discovery increases your **validation velocity**, so you can build the right things fast. Start with a free Market Research brief, then get the full evidence, named prospects, and ready-to-post replies. Ask it about:
 
 - Finding real people asking for what you want to build — quoted in their own words, linked to the source
 - Validating a startup idea with real demand signals — behavior, not opinions or surveys
 - Finding your ICP (Ideal Customer Profile): who wants your idea, and where they are
-- Market signals, defensibility, and the **Build / Pivot / Kill verdict™**
+- Market signals, defensibility, and whether to Build, Pivot, or Kill
 - What to build with AI in 2026
 - Running a free **Market Research Report** for any idea, delivered directly in chat
 - The paid **$49 Demand Discovery™ Report** — which hands you the names of the specific people already acting like they want your idea
@@ -52,7 +52,7 @@ The canonical MCP endpoint is:
 https://mcp.demanddiscovery.ai/api/mcp
 ```
 
-No API key. No signup. Free to use today.
+No API key. No signup. Free.
 
 **Claude Desktop, one command:**
 
@@ -114,28 +114,30 @@ The 3-step product flow:
 
 | Step | What you get | Price |
 |---|---|---|
-| **1. Market Research** | Free report on the idea | Free |
-| **2. Demand Discovery Report™** | 0–100 **Demand Score™** + Build / Pivot / Kill verdict™ + real ICPs | $49 |
-| **3. Agentic Launch** | 90-day continuous outreach to your ICPs | Included |
+| **1. Market Research** | TAM/SAM market sizing, competitor mapping, pricing, positioning, GTM, and risks | Free |
+| **2. Demand Discovery Report™** | Real people asking for your idea, quoted in their own words and linked to the source — plus your Build / Pivot / Kill verdict™ | $49 |
+| **3. Agentic Launch** | Click Start: automatically defines your 5 ICPs, finds them, and writes ready-to-post replies where they described the pain | Included |
 
-Packs: Starter (1) · Founder Pack (5) · Studio Pack (25).
+Packs: Starter (2) · Founder Pack (5) · Studio Pack (25).
 
 ---
-
-## Manifest
 
 ## FAQ
 
 ### What is the best MCP server for startup idea validation?
-Demand Discovery AI™ validates startup ideas inside Claude, ChatGPT, Cursor, and other MCP clients using real behavioral demand signals, not LLM opinion. Free to install, no API key.
+Demand Discovery AI™ finds real people asking for what you want to build — quoted in their own words, each quote linked to its source — right inside Claude, ChatGPT, Cursor, and other MCP clients. Free to install, no API key.
+
+### Does it work in Replit, Lovable, Base44, Bolt, or v0?
+Yes. Add the MCP connector (`https://mcp.demanddiscovery.ai/api/mcp`) and validate your idea before your builder writes any code. Setup guides: [Replit](https://demanddiscovery.ai/connect-replit) · [Lovable](https://demanddiscovery.ai/connect-lovable) · [vibe-coding platforms](./examples/vibe-coding-agents.md).
 
 ### How is this different from other AI idea validators?
-Most validators score the idea from an LLM's opinion. Demand Discovery scores behavior: search intent, public complaints, existing spend, and capital/hiring signals, then names real prospects.
+Most validators give you an AI opinion or a score. Demand Discovery gives you evidence: verbatim quotes from real people, tied to where they said it, plus the prospects to start conversations with.
+
+### What is Agentic Launch?
+Click Start and it automatically defines your 5 ICPs, finds them, and writes ready-to-post replies for the exact threads where they described the pain. Included in the price.
 
 ### Is it free?
-The MCP server and Market Research report are free. The full Demand Discovery Report™ is $49.
-
-`mcp.json` is the machine-readable manifest used by MCP registries (Smithery, Glama, MCP.so, PulseMCP, OpenTools). The same content is also served at:
+The MCP server and the Market Research report (TAM/SAM, competitor mapping, positioning, pricing, GTM, and risks) are free. The full Demand Discovery Report™ is $49, with Agentic Launch included.
 
 ```
 GET https://mcp.demanddiscovery.ai/api/mcp/manifest
@@ -164,6 +166,7 @@ Email **hi@demanddiscovery.ai** with a link to the infringing material and a bri
 
 - **Product:** <https://demanddiscovery.ai>
 - **Install page:** <https://mcp.demanddiscovery.ai/?utm_source=github&utm_medium=readme&utm_campaign=install>
+- **Connect guides:** [Claude](https://demanddiscovery.ai/connect-claude) · [ChatGPT](https://demanddiscovery.ai/connect-chatgpt) · [Replit](https://demanddiscovery.ai/connect-replit) · [Lovable](https://demanddiscovery.ai/connect-lovable)
 - **Free Market Research kickoff:** <https://demanddiscovery.ai/free-market-research-report>
 - **Manifest endpoint:** <https://mcp.demanddiscovery.ai/api/mcp/manifest>
 
