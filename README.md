@@ -114,7 +114,7 @@ The 3-step product flow:
 
 | Step | What you get | Price |
 |---|---|---|
-| **1. Market Research** | TAM/SAM market sizing, competitor mapping, pricing, positioning, GTM, and risks | Free |
+| **1. Market Research** | Executive summary · Target market · TAM, SAM & SOM · Growth rate & drivers · Positioning strategy · Competitive landscape · Go-to-market plan · Pricing strategy · Opportunities & risks | Free |
 | **2. Demand Discovery Report** | Real people asking for your idea, quoted in their own words and linked to the source — plus your Build / Pivot / Kill verdict™ | $49 |
 | **3. Agentic Launch** | Click Start and it automatically defines your 5 ICPs, finds them, and writes ready-to-post replies where they described the pain | Included |
 
@@ -137,7 +137,7 @@ Most validators give you an AI opinion or a score. Demand Discovery gives you ev
 Click Start and it automatically defines your 5 ICPs, finds them, and writes ready-to-post replies for the exact threads where they described the pain. Included in the price.
 
 ### Is it free?
-The MCP server and the Market Research report (TAM/SAM, competitor mapping, positioning, pricing, GTM, and risks) are free. The full Demand Discovery Report™ is $49, with Agentic Launch included.
+The MCP server and the Market Research report (executive summary, target market, TAM/SAM/SOM, growth rate and drivers, positioning strategy, competitive landscape, go-to-market plan, pricing strategy, and opportunities and risks) are free. The full Demand Discovery Report™ is $49 for two ideas, with Agentic Launch included.
 
 ---
 
