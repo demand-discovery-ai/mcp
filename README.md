@@ -115,8 +115,8 @@ The 3-step product flow:
 | Step | What you get | Price |
 |---|---|---|
 | **1. Market Research** | TAM/SAM market sizing, competitor mapping, pricing, positioning, GTM, and risks | Free |
-| **2. Demand Discovery Report™** | Real people asking for your idea, quoted in their own words and linked to the source — plus your Build / Pivot / Kill verdict™ | $49 |
-| **3. Agentic Launch** | Click Start: automatically defines your 5 ICPs, finds them, and writes ready-to-post replies where they described the pain | Included |
+| **2. Demand Discovery Report** | Real people asking for your idea, quoted in their own words and linked to the source — plus your Build / Pivot / Kill verdict™ | $49 |
+| **3. Agentic Launch** | Click Start and it automatically defines your 5 ICPs, finds them, and writes ready-to-post replies where they described the pain | Included |
 
 Packs: Starter (2) · Founder Pack (5) · Studio Pack (25).
 
@@ -138,6 +138,12 @@ Click Start and it automatically defines your 5 ICPs, finds them, and writes rea
 
 ### Is it free?
 The MCP server and the Market Research report (TAM/SAM, competitor mapping, positioning, pricing, GTM, and risks) are free. The full Demand Discovery Report™ is $49, with Agentic Launch included.
+
+---
+
+## Manifest
+
+`mcp.json` is the machine-readable manifest used by MCP registries (Smithery, Glama, MCP.so, PulseMCP, OpenTools). The same content is also served at:
 
 ```
 GET https://mcp.demanddiscovery.ai/api/mcp/manifest
