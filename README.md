@@ -1,4 +1,4 @@
-# Demand Discovery AI™ — MCP Server for Startup Idea Validation
+# Demand Discovery AI™ — MCP server to validate Startup Ideas with Real Demand Evidence
 
 **The MCP server for startup idea validation and market validation.** Real people, quoted in their own words, linked to the source, talking about your idea. 
 
